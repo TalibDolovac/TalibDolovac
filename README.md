@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talib Dolovac</h1>
 
-<p align="center">- 🌱 I’m currently learning React JS and C++</p>
+<p align="center">- 🌱 I’m currently learning React JS & C++</p>
 
 <p align="center">- 📫 How to reach me talibdolovac15@gmail.com</p>
 

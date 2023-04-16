@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Talib Dolovac</h1>
+<h1 align="center">Hi 👋, I'm Talib Dolovac</h1>
 
 <p align="center"> - 🌱 - I’m currently learning React JS & C++</p>
 
